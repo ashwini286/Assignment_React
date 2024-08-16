@@ -11,7 +11,7 @@ function App() {
    <>
    {/* <Home />
    <Home2 /> */}
- 
+ <Navbar />
    <Dashboard />
    </> 
   )
