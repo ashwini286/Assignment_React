@@ -1,0 +1,13 @@
+{
+    "cloudAccountData": {
+      "labels": ["Connected(2)", "Not Connected(2)"],
+      "datasets": [
+        {
+          "data": [50, 50],
+          "backgroundColor": ["#4A90E2", "#C0D3EB"],
+          "hoverBackgroundColor": ["#3b82f6", "#93c5fd"],
+          "cutout": "65%"
+        }
+      ]
+    }
+  }

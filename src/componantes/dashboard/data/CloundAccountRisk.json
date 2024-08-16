@@ -1,0 +1,13 @@
+{
+    "cloudAccountRiskData": {
+      "labels": ["Failed", "Warning", "Not available", "Passed"],
+      "datasets": [
+        {
+          "data": [1699, 681, 36, 7235],
+          "backgroundColor": ["#ff4d4f", "#ffc107", "#ffecb3", "#4CAF50"],
+        "hoverBackgroundColor": ["#ff7875", "#ffcd38", "#ffd966","#66bb6a"],
+          "cutout": "65%"
+        }
+      ]
+    }
+  }
